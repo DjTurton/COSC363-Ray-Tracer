@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.cpp
+Plane.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.h
+math.h
+-
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.h
+glm/glm.hpp
+-
+SceneObject.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.cpp
+Ray.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.h
+glm/glm.hpp
+-
+vector
+-
+SceneObject.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/RayTracer.cpp
+iostream
+-
+cmath
+-
+vector
+-
+glm/glm.hpp
+-
+Sphere.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.h
+SceneObject.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+Ray.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.h
+GL/freeglut.h
+-
+Plane.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.h
+TextureBMP.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.cpp
+SceneObject.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+glm/glm.hpp
+-
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.cpp
+Sphere.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.h
+math.h
+-
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.h
+glm/glm.hpp
+-
+SceneObject.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.cpp
+TextureBMP.h
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.h
+
+/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.h
+iostream
+-
+fstream
+-
+glm/glm.hpp
+-
+

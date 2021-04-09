@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/RayTracer.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/RayTracer.cpp"
+},
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/Ray.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Ray.cpp"
+},
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/SceneObject.cpp"
+},
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/Sphere.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Sphere.cpp"
+},
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/Plane.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/Plane.cpp"
+},
+{
+  "directory": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o -c \"/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.cpp\"",
+  "file": "/media/sf_VM_Shared_Files/COSC363/Assignment 2/Assignment 2/Assignment 2 Files/TextureBMP.cpp"
+}
+]
